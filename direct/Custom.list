@@ -48,7 +48,8 @@ DOMAIN-SUFFIX,freenom.com
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m-team.io
 DOMAIN-SUFFIX,kuxueyun.com
-DOMAIN-KEYWORD,cn.alibabacloud
+DOMAIN-KEYWORD,cn.alibabacloud.com
+DOMAIN-KEYWORD,cn-s.alibabacloud.com
 
 GEOSITE,linuxdo
 GEOSITE,microsft@cn
