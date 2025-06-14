@@ -2,6 +2,8 @@ Fork自 [zsokami](https://github.com/zsokami/ACL4SSR)
 
 规则上游自 [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master)
 
+修改参考 [subconverter](https://github.com/tindy2013/subconverter/blob/master/README-cn.md)
+
 ## ACL4SSR.ini
 
 https://raw.githubusercontent.com/lizkes/clash-ruler/main/ruler.ini
