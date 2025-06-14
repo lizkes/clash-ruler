@@ -2,7 +2,9 @@ Fork自 [zsokami](https://github.com/zsokami/ACL4SSR)
 
 规则上游自 [ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master)
 
-修改参考 [subconverter](https://github.com/tindy2013/subconverter/blob/master/README-cn.md)
+修改参考 [subconverter](https://github.com/metacubex/subconverter/blob/master/README-cn.md)
+
+路由部分参考 [Aloxaf's Blog](https://www.aloxaf.com/2025/04/how_to_use_geosite/)
 
 ## ACL4SSR.ini
 
