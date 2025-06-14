@@ -132,11 +132,11 @@ geo-auto-update: true
 # 更新间隔，单位为小时
 geo-update-interval: 24
 # 自定 GEO 下载地址
-# 或使用testingcf.jsdelivr.net
+# 或使用gcore.jsdelivr.net
 geox-url:
 # geoip: "https://gcore.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip-lite.dat"
-  geosite: "https://gcore.jsdelivr.net/gh/v2fly/domain-list-community@release/dlc.dat"
-  mmdb: "https://gcore.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-only-cn-private.mmdb"
+  geosite: "https://testingcf.jsdelivr.net/gh/v2fly/domain-list-community@release/dlc.dat"
+  mmdb: "https://testingcf.jsdelivr.net/gh/Loyalsoldier/geoip@release/Country-only-cn-private.mmdb"
 #  asn: "https://gcore.jsdelivr.net/gh/xishang0128/geoip@releases/GeoLite2-ASN.mmdb"
 
 # 自定义外部资源下载时使用的的 UA，默认为 clash.meta

@@ -8,6 +8,8 @@ Fork自 [zsokami](https://github.com/zsokami/ACL4SSR)
 
 https://raw.githubusercontent.com/lizkes/clash-ruler/main/external_config.ini
 
+https://testingcf.jsdelivr.net/gh/lizkes/clash-ruler@main/external_config.ini
+
 和原配置只有一行差异：
 
 ```diff
