@@ -26,3 +26,21 @@ DOMAIN-SUFFIX,githubfast.com
 DOMAIN-SUFFIX,1976f.com
 
 # 自定义
+DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,feimaoyun.com
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,jmj.cc
+DOMAIN-SUFFIX,linux.do
+DOMAIN-SUFFIX,pin.gl
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-KEYWORD,cn.alibabacloud
+
+# 必须直连、防止abuse
+DOMAIN-SUFFIX,freenom.com
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
+DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,kuxueyun.com
+DOMAIN-SUFFIX,netcup.com
+DOMAIN-SUFFIX,bandwagonhost.com
