@@ -29,7 +29,7 @@ mode: rule
 # warning 输出发生错误但不影响运行的日志，以及 error 级别内容
 # info 输出一般运行的内容，以及 error 和 warning 级别的日志
 # debug 尽可能的输出运行中所有的信息
-log-level: silent
+log-level: info
 
 # 是否允许内核接受 IPv6 流量
 ipv6: false
