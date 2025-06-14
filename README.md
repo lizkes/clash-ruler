@@ -6,7 +6,7 @@ Fork自 [zsokami](https://github.com/zsokami/ACL4SSR)
 
 ## ACL4SSR.ini
 
-https://raw.githubusercontent.com/lizkes/clash-ruler/main/ruler.ini
+https://raw.githubusercontent.com/lizkes/clash-ruler/main/external_config.ini
 
 和原配置只有一行差异：
 
