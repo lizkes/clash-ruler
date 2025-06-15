@@ -52,7 +52,7 @@ DOMAIN-KEYWORD,cn.alibabacloud.com
 DOMAIN-KEYWORD,cn-s.alibabacloud.com
 
 GEOSITE,linuxdo
-GEOSITE,microsft@cn
+GEOSITE,microsoft@cn
 GEOSITE,oracle
 GEOSITE,netcup
 GEOSITE,bandwagonhost
