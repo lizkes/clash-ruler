@@ -48,10 +48,12 @@ DOMAIN-SUFFIX,freenom.com
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m-team.io
 DOMAIN-SUFFIX,kuxueyun.com
+DOMAIN-SUFFIX,ldstatic.com
+DOMAIN-SUFFIX,linux.do
+
 DOMAIN-KEYWORD,cn.alibabacloud.com
 DOMAIN-KEYWORD,cn-s.alibabacloud.com
 
-GEOSITE,linuxdo
 GEOSITE,microsoft@cn
 GEOSITE,oracle
 GEOSITE,netcup
